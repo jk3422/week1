@@ -7,8 +7,11 @@ The system is trained on a Kaggle dataset:
 🔗 [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 
 #Project Highlights: 
- Uses Deep Learning (CNN) to classify plant diseases  
+ Uses Deep Learning (CNN) to classify plant diseases
+ 
  Identifies both healthy and diseased plants 
+ 
  Helps in early detection, preventing crop loss  
+ 
  Provides accurate predictions for different plant conditions  
 
